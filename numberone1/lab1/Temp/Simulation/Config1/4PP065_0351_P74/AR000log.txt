@@ -1,0 +1,36 @@
+
+
+Fri Jan 24 16:29:13 2020
+No ARsim registration found!
+  Bernecker & Rainer 
+
+
+
+Fri Jan 24 16:29:13 2020
+COMMAND_COLDSTART
+InstanceName : 01d5d2ba44eeac20
+
+WorkingPath :
+C:\Users\admin\Downloads\Lab1\numberone1\lab1\Temp\Simulation\Config1\4PP065_0351_P74\
+
+
+
+Fri Jan 24 16:29:13 2020
+COMMAND_COLDSTART
+Version : J4.25
+
+
+
+Fri Jan 24 16:29:30 2020
+COMMAND_TERMINATE
+
+
+Fri Jan 24 16:29:30 2020
+Old process terminated: C:\Users\admin\Downloads\Lab1\numberone1\lab1\Temp\Simulation\Config1\4PP065_0351_P74\AR000Debug.exe
+
+
+Fri Jan 24 16:29:30 2020
+COMMAND_TERMINATE
+
+
+Fri Jan 24 16:29:30 2020

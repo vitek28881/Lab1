@@ -1,0 +1,35 @@
+
+
+Tue May 15 15:40:25 2018
+No ARsim registration found!
+  Bernecker & Rainer 
+
+
+
+Tue May 15 15:40:25 2018
+COMMAND_COLDSTART
+InstanceName : 01d3ec49e5f4cdb0
+
+WorkingPath :
+D:\Lab1\lab1\Temp\Simulation\Config1\4PP065_0351_P74\
+
+
+
+Tue May 15 15:40:25 2018
+COMMAND_COLDSTART
+Version : J4.25
+
+
+
+Tue May 15 15:42:20 2018
+COMMAND_TERMINATE
+
+
+Tue May 15 15:42:21 2018
+
+
+Tue May 15 15:42:21 2018
+COMMAND_TERMINATE
+
+
+Tue May 15 15:42:21 2018

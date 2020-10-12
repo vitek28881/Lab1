@@ -1,0 +1,2 @@
+MororC	"$(AS_CPU_PATH)/MororC/FB_Motor.c.o" "$(AS_CPU_PATH)/MororC/FB_Integrator.c.o" "$(AS_CPU_PATH)/MororC/FB_Regulator.c.o"  -o "$(AS_CPU_PATH)/MororC/a.out"  -G V4.1.2  -T SG4  -M IA32  -specs=I386specs -Wl,-q,-T,bur_elf_i386.x
+Program	"$(AS_CPU_PATH)/Program/Main.c.o"  -o "$(AS_CPU_PATH)/Program/a.out"  -G V4.1.2  -T SG4  -M IA32  -specs=I386specs -Wl,-q,-T,bur_elf_i386.x
